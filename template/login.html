@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Login - AgriPredict</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@600;700;800&family=Quicksand:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gradient-to-br from-[#e0f2fe] to-[#f8fafc] flex items-center justify-center min-h-screen" style="font-family: 'Quicksand', sans-serif;">
+
+  <div class="bg-white p-10 rounded-3xl shadow-2xl border border-gray-100 w-full max-w-md text-center">
+    <div class="text-6xl mb-4">🌾</div>
+    <h2 class="text-3xl font-bold text-gray-800 mb-2" style="font-family: 'Baloo 2', cursive;">AgriPredict</h2>
+    <p class="text-gray-500 mb-8">Enter your mobile number to sign in</p>
+
+    <div id="phoneInputSection">
+      <div class="flex items-center bg-gray-50 border border-gray-200 rounded-xl overflow-hidden mb-6 focus-within:border-green-500 focus-within:ring-2 focus-within:ring-green-200 transition-all">
+        <div class="px-4 font-bold text-gray-500 border-r border-gray-200">+91</div>
+        <input type="tel" id="phoneNumber" placeholder="Enter 10-digit number" class="w-full p-4 bg-transparent border-none focus:ring-0 text-gray-800 font-bold tracking-widest outline-none" maxlength="10">
+      </div>
+      <button id="sendOtpBtn" onclick="sendOTP()" class="w-full bg-gradient-to-r from-green-500 to-green-700 hover:from-green-600 hover:to-green-800 text-white font-bold py-4 rounded-xl shadow-lg transition duration-200 text-lg">
+        Send OTP
+      </button>
+    </div>
+
+    <div id="otpInputSection" class="hidden">
+      <p class="text-sm text-green-600 font-bold mb-4">OTP sent successfully!</p>
+      <input type="number" id="otpCode" placeholder="Enter 6-digit OTP" class="w-full p-4 bg-gray-50 border border-gray-200 rounded-xl mb-6 text-center font-bold tracking-widest text-2xl text-gray-800 outline-none focus:border-green-500 focus:ring-2 focus:ring-green-200 transition-all">
+      <button id="verifyOtpBtn" onclick="verifyOTP()" class="w-full bg-gradient-to-r from-blue-500 to-blue-700 hover:from-blue-600 hover:to-blue-800 text-white font-bold py-4 rounded-xl shadow-lg transition duration-200 text-lg">
+        Verify & Login
+      </button>
+    </div>
+
+    <div id="recaptcha-container"></div>
+    
+    <a href="/" class="block mt-6 text-gray-400 hover:text-gray-600 text-sm font-bold underline">← Back to Dashboard</a>
+  </div>
+
+  <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-auth.js"></script>
+
+  <script>
+    const firebaseConfig = {
+      apiKey: "AIzaSyB5IFaXJYcWvOxH423v-1UEdC0fCmZoJK4",
+      authDomain: "agri-predict-dc5b0.firebaseapp.com",
+      projectId: "agri-predict-dc5b0",
+      storageBucket: "agri-predict-dc5b0.firebasestorage.app",
+      messagingSenderId: "109682027466",
+      appId: "1:109682027466:web:c4a6c34099e2e8609efd33",
+      measurementId: "G-MCEVVNDF2R"
+    };
+
+    if (!firebase.apps.length) {
+        firebase.initializeApp(firebaseConfig);
+    }
+
+    let confirmationResult;
+    window.recaptchaVerifier = new firebase.auth.RecaptchaVerifier('recaptcha-container', { 'size': 'invisible' });
+
+    function sendOTP() {
+      const phoneInput = document.getElementById('phoneNumber').value;
+      if (phoneInput.length !== 10) { alert("Please enter a valid 10-digit number."); return; }
+      
+      const btn = document.getElementById('sendOtpBtn');
+      btn.innerText = "Sending..."; btn.disabled = true;
+
+      firebase.auth().signInWithPhoneNumber("+91" + phoneInput, window.recaptchaVerifier)
+        .then((result) => {
+            confirmationResult = result;
+            document.getElementById('phoneInputSection').classList.add('hidden');
+            document.getElementById('otpInputSection').classList.remove('hidden');
+        }).catch((error) => {
+            console.error(error);
+            alert("Failed to send OTP.");
+            btn.innerText = "Send OTP"; btn.disabled = false;
+        });
+    }
+
+    function verifyOTP() {
+      const code = document.getElementById('otpCode').value;
+      const btn = document.getElementById('verifyOtpBtn');
+      btn.innerText = "Verifying..."; btn.disabled = true;
+
+      confirmationResult.confirm(code).then(() => {
+        // SUCCESS! Redirect back to the home page automatically
+        window.location.href = "/";
+      }).catch((error) => {
+        alert("Invalid OTP code.");
+        btn.innerText = "Verify & Login"; btn.disabled = false;
+      });
+    }
+  </script>
+</body>
+</html>
