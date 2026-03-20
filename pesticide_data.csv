@@ -1,0 +1,17 @@
+crop,pest_or_disease,symptoms,pesticide_type,recommended_pesticide,application_method,dosage,notes
+Rice,Brown Plant Hopper,Yellowing and drying of leaves,Systemic,Imidacloprid 17.8% SL,Spray,0.3 ml/L water,Apply during early infestation
+Rice,Stem Borer,Dead hearts and white ears,Contact,Chlorantraniliprole 18.5% SC,Spray,0.4 ml/L water,Apply at tillering stage
+Wheat,Aphids,Sticky honeydew and curled leaves,Systemic,Thiamethoxam 25% WG,Spray,0.25 g/L water,Avoid spraying during flowering
+Wheat,Rust,Brown or yellow rust spots,Fungicide,Propiconazole 25% EC,Spray,1 ml/L water,Repeat after 10-15 days if needed
+Cotton,Bollworm,Damage to bolls,Systemic,Spinosad 45% SC,Spray,0.3 ml/L water,Use during early larval stage
+Cotton,Whitefly,Yellowing and leaf curl,Systemic,Acetamiprid 20% SP,Spray,0.2 g/L water,Avoid excessive use
+Tomato,Leaf Curl Virus,Upward curling leaves,Insecticide,Imidacloprid 17.8% SL,Spray,0.3 ml/L water,Control whitefly vectors
+Tomato,Early Blight,Brown spots with rings,Fungicide,Mancozeb 75% WP,Spray,2 g/L water,Apply every 7-10 days
+Potato,Late Blight,Dark lesions on leaves,Fungicide,Metalaxyl + Mancozeb,Spray,2 g/L water,Avoid overwatering
+Potato,Aphids,Sticky leaves,Systemic,Dimethoate 30% EC,Spray,1 ml/L water,Apply in early stage
+Sugarcane,Top Borer,Dead top shoots,Systemic,Chlorpyrifos 20% EC,Spray,2 ml/L water,Apply at early stage
+Maize,Fall Armyworm,Holes in leaves,Systemic,Emamectin Benzoate 5% SG,Spray,0.4 g/L water,Apply in early infestation
+Chilli,Thrips,Silvery streaks on leaves,Systemic,Fipronil 5% SC,Spray,1 ml/L water,Repeat after 10 days
+Chilli,Anthracnose,Sunken lesions on fruit,Fungicide,Carbendazim 50% WP,Spray,1 g/L water,Remove infected fruits
+Soybean,Leaf Miner,Serpentine mines on leaves,Systemic,Chlorantraniliprole,Spray,0.3 ml/L water,Use early
+Groundnut,Tikka Disease,Dark leaf spots,Fungicide,Hexaconazole 5% EC,Spray,1 ml/L water,Apply at 15-day interval

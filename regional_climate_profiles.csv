@@ -1,0 +1,33 @@
+﻿region,state,lat,lon,avg_temp_c,avg_temp_min_c,avg_temp_max_c,avg_humidity_pct,annual_rainfall_mm,monsoon_rainfall_mm,winter_rainfall_mm,pre_monsoon_rainfall_mm,post_monsoon_rainfall_mm,soil_type,soil_ph,climate_type,top_crop_1,top_crop_2,top_crop_3,top_crop_4,top_crop_5
+Bhubaneswar,Odisha,20.2961,85.8245,26.39,16.45,38.07,72.76,1573.47,1195.84,47.2,173.08,157.35,Coastal alluvial loam,6.5,Warm humid coastal,Paddy,Groundnut,Green Gram,Sugarcane,Vegetables
+Cuttack,Odisha,20.4625,85.883,26.39,16.45,38.07,72.76,1573.47,1195.84,47.2,173.08,157.35,Coastal alluvial loam,6.5,Warm humid coastal,Paddy,Groundnut,Green Gram,Sugarcane,Vegetables
+Puri,Odisha,19.8135,85.8312,26.81,18.93,35.95,74.19,1587.45,1206.46,47.62,174.62,158.75,Coastal alluvial loam,6.5,Warm humid coastal,Paddy,Groundnut,Green Gram,Sugarcane,Vegetables
+Balasore,Odisha,21.4942,86.9317,26.31,17.66,37.27,73.92,1719.38,1306.73,51.58,189.13,171.94,Coastal alluvial loam,6.5,Warm humid coastal,Paddy,Groundnut,Green Gram,Sugarcane,Vegetables
+Paradeep,Odisha,20.3167,86.6167,26.96,21.46,33.79,76.7,1851.91,1407.45,55.56,203.71,185.19,Coastal alluvial loam,6.5,Warm humid coastal,Paddy,Groundnut,Green Gram,Sugarcane,Vegetables
+Kendrapara,Odisha,20.5017,86.4223,26.57,17.28,37.69,74.8,1635.31,1242.84,49.06,179.88,163.53,Coastal alluvial loam,6.5,Warm humid coastal,Paddy,Groundnut,Green Gram,Sugarcane,Vegetables
+Jagatsinghpur,Odisha,20.255,86.1706,26.57,17.28,37.69,74.8,1635.31,1242.84,49.06,179.88,163.53,Coastal alluvial loam,6.5,Warm humid coastal,Paddy,Groundnut,Green Gram,Sugarcane,Vegetables
+Berhampur,Odisha,19.3149,84.7941,27.1,19.96,35.57,72.71,1488.3,1131.11,44.65,163.71,148.83,Coastal alluvial loam,6.5,Warm humid coastal,Paddy,Groundnut,Green Gram,Sugarcane,Vegetables
+Nayagarh,Odisha,20.1288,85.0973,26.61,17.3,37.55,69.97,1504.91,1173.83,45.15,150.49,135.44,Mixed red loam,6.5,Sub-humid tropical,Paddy,Maize,Arhar,Black Gram,Vegetables
+Khordha,Odisha,20.182,85.616,26.81,18.93,35.95,74.19,1587.45,1238.21,47.62,158.75,142.87,Mixed red loam,6.5,Sub-humid tropical,Paddy,Maize,Arhar,Black Gram,Vegetables
+Dhenkanal,Odisha,20.6578,85.5969,26.39,16.45,38.07,72.76,1573.47,1227.31,47.2,157.35,141.61,Mixed red loam,6.5,Sub-humid tropical,Paddy,Maize,Arhar,Black Gram,Vegetables
+Angul,Odisha,20.8444,85.1511,26.07,15.22,37.55,67.48,1495.01,1166.11,44.85,149.5,134.55,Mixed red loam,6.5,Sub-humid tropical,Paddy,Maize,Arhar,Black Gram,Vegetables
+Jajpur,Odisha,20.85,86.3333,26.35,16.46,38.38,72.09,1618.59,1262.5,48.56,161.86,145.67,Mixed red loam,6.5,Sub-humid tropical,Paddy,Maize,Arhar,Black Gram,Vegetables
+Bhadrak,Odisha,21.0583,86.4958,26.35,16.46,38.38,72.09,1618.59,1230.13,48.56,178.04,161.86,Coastal alluvial loam,6.5,Warm humid coastal,Paddy,Groundnut,Green Gram,Sugarcane,Vegetables
+Keonjhar,Odisha,21.6289,85.581,25.11,14.46,36.79,68.45,1515.65,1197.36,45.47,151.57,121.25,Lateritic forest loam,6.5,Sub-humid plateau,Paddy,Maize,Mustard,Potato,Pulses
+Sambalpur,Odisha,21.4669,83.9812,26.34,14.86,37.77,62.39,1397.51,1145.96,41.93,125.78,83.85,Medium black and red sandy loam,6.5,Warm semi-dry tropical,Paddy,Maize,Cotton,Arhar,Ragi
+Jharsuguda,Odisha,21.8554,84.0062,25.92,14.59,37.6,61.51,1372.19,1125.2,41.17,123.5,82.33,Medium black and red sandy loam,6.5,Warm semi-dry tropical,Paddy,Maize,Cotton,Arhar,Ragi
+Bargarh,Odisha,21.3335,83.619,26.34,14.86,37.77,62.39,1397.51,1145.96,41.93,125.78,83.85,Medium black and red sandy loam,6.5,Warm semi-dry tropical,Paddy,Maize,Cotton,Arhar,Ragi
+Bolangir,Odisha,20.7074,83.4843,25.84,14.99,37.26,64.17,1423.27,1167.08,42.7,128.09,85.4,Medium black and red sandy loam,6.5,Warm semi-dry tropical,Paddy,Maize,Cotton,Arhar,Ragi
+Sonepur,Odisha,20.8333,83.9167,26.62,15.23,38.2,62.73,1416.86,1161.83,42.51,127.52,85.01,Medium black and red sandy loam,6.5,Warm semi-dry tropical,Paddy,Maize,Cotton,Arhar,Ragi
+Boudh,Odisha,20.8377,84.32,26.26,14.93,37.69,64.21,1483.19,1156.89,44.5,148.32,133.49,Mixed red loam,6.5,Sub-humid tropical,Paddy,Maize,Arhar,Black Gram,Vegetables
+Bhawanipatna,Odisha,19.9072,83.1663,25.77,14.99,37.83,64.18,1335.37,1095,40.06,120.18,80.12,Medium black and red sandy loam,6.5,Warm semi-dry tropical,Paddy,Maize,Cotton,Arhar,Ragi
+Nuapada,Odisha,20.8156,82.5383,25.81,13.81,38.03,61.53,1353.78,1110.1,40.61,121.84,81.23,Medium black and red sandy loam,6.5,Warm semi-dry tropical,Paddy,Maize,Cotton,Arhar,Ragi
+Koraput,Odisha,18.8135,82.7123,23.9,14.04,35.52,68.44,1600.02,1184.01,48,208,160,Red lateritic upland,6.5,Humid upland tropical,Paddy,Millets,Turmeric,Maize,Pulses
+Rayagada,Odisha,19.171,83.416,23.96,14.13,35.63,68.64,1448.42,1071.83,43.45,188.29,144.84,Red lateritic upland,6.5,Humid upland tropical,Paddy,Millets,Turmeric,Maize,Pulses
+Malkangiri,Odisha,18.3643,81.888,25.68,15.67,37.47,67.64,1516.21,1122,45.49,197.11,151.62,Red lateritic upland,6.5,Humid upland tropical,Paddy,Millets,Turmeric,Maize,Pulses
+Nabarangpur,Odisha,19.2311,82.5483,23.9,14.04,35.52,68.44,1600.02,1184.01,48,208,160,Red lateritic upland,6.5,Humid upland tropical,Paddy,Millets,Turmeric,Maize,Pulses
+Phulbani,Odisha,20.4698,84.2304,25.34,14.56,36.6,65.9,1492.38,1104.36,44.77,194.01,149.24,Red lateritic upland,6.5,Humid upland tropical,Paddy,Millets,Turmeric,Maize,Pulses
+Paralakhemundi,Odisha,18.7783,84.0936,26.03,18.11,36.06,74.06,1367.75,1012.13,41.03,177.81,136.78,Red lateritic upland,6.5,Humid upland tropical,Paddy,Millets,Turmeric,Maize,Pulses
+Rourkela,Odisha,22.2604,84.8536,25.07,13.66,37.22,62.26,1422.06,1123.43,42.66,142.21,113.76,Lateritic forest loam,6.5,Sub-humid plateau,Paddy,Maize,Mustard,Potato,Pulses
+Baripada,Odisha,21.9322,86.725,25.85,15.54,38.42,71.94,1564.26,1235.77,46.93,156.43,125.14,Lateritic forest loam,6.5,Sub-humid plateau,Paddy,Maize,Mustard,Potato,Pulses
+Deogarh,Odisha,21.5383,84.7333,25.58,14.49,37.1,65.9,1460.27,1153.61,43.81,146.03,116.82,Lateritic forest loam,6.5,Sub-humid plateau,Paddy,Maize,Mustard,Potato,Pulses
