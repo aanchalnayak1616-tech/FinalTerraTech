@@ -1,0 +1,601 @@
+soil_type,crop_type,soil_pH,nitrogen,phosphorus,potassium,bio_name,type,buy,diy
+red,rice,6.9,86,71,77,PSB,diy,Available in agri shop,Bone meal compost
+red,millet,5.0,99,17,56,Mycorrhiza,market,Available in agri shop,Organic compost mix
+sandy,cotton,7.7,66,30,13,Frateuria aurantia,market,Available in agri shop,Wood ash
+loamy,wheat,7.6,50,71,53,PSB,diy,Available in agri shop,Bone meal compost
+black,cotton,5.1,63,22,66,PSB,diy,Available in agri shop,Bone meal compost
+loamy,pulses,6.3,43,14,31,PSB,diy,Available in agri shop,Bone meal compost
+clayey,rice,6.6,72,68,17,Potash mobilizing bacteria,market,Available in agri shop,Banana peel compost
+sandy,rice,7.1,46,34,50,Azotobacter,market,Available in agri shop,Vermicompost
+black,rice,7.2,90,64,27,Potash mobilizing bacteria,market,Available in agri shop,Banana peel compost
+sandy,maize,6.4,61,71,45,Rhizobium,diy,Available in agri shop,Legume compost
+red,millet,5.0,94,46,45,Mycorrhiza,market,Available in agri shop,Organic compost mix
+sandy,maize,6.1,22,5,41,Azospirillum,market,Available in agri shop,Compost slurry
+loamy,wheat,6.4,43,43,62,PSB,market,Available in agri shop,Bone meal compost
+clayey,millet,6.9,99,17,13,Mycorrhiza,diy,Available in agri shop,Organic compost mix
+loamy,sugarcane,8.4,25,66,65,Rhizobium,market,Available in agri shop,Legume compost
+clayey,maize,6.5,29,16,25,Rhizobium,diy,Available in agri shop,Legume compost
+red,maize,7.2,85,7,62,Mycorrhiza,diy,Available in agri shop,Organic compost mix
+sandy,pulses,5.1,36,20,43,Rhizobium,market,Available in agri shop,Legume compost
+red,cotton,6.8,100,50,55,Azospirillum,market,Available in agri shop,Compost slurry
+loamy,cotton,6.8,81,65,77,PSB,market,Available in agri shop,Bone meal compost
+sandy,millet,6.5,59,67,6,Frateuria aurantia,market,Available in agri shop,Wood ash
+loamy,wheat,5.5,17,59,34,Azospirillum,market,Available in agri shop,Compost slurry
+clayey,rice,5.7,86,37,59,Rhizobium,diy,Available in agri shop,Legume compost
+sandy,potato,8.0,16,77,63,Azotobacter,market,Available in agri shop,Vermicompost
+sandy,millet,6.7,57,61,74,PSB,diy,Available in agri shop,Bone meal compost
+red,millet,6.9,29,13,46,Azotobacter,market,Available in agri shop,Vermicompost
+red,pulses,5.5,39,19,35,Rhizobium,market,Available in agri shop,Legume compost
+red,potato,6.2,52,10,32,PSB,diy,Available in agri shop,Bone meal compost
+clayey,sugarcane,8.1,86,63,6,Potash mobilizing bacteria,market,Available in agri shop,Banana peel compost
+clayey,rice,5.8,56,31,49,Frateuria aurantia,diy,Available in agri shop,Wood ash
+loamy,wheat,7.2,22,53,78,Rhizobium,diy,Available in agri shop,Legume compost
+black,cotton,8.4,64,50,61,Azospirillum,diy,Available in agri shop,Compost slurry
+sandy,potato,5.1,97,53,21,Potash mobilizing bacteria,market,Available in agri shop,Banana peel compost
+clayey,rice,6.8,59,68,35,Azotobacter,market,Available in agri shop,Vermicompost
+red,cotton,8.3,21,65,57,Azotobacter,diy,Available in agri shop,Vermicompost
+loamy,millet,5.4,83,17,5,Mycorrhiza,diy,Available in agri shop,Organic compost mix
+loamy,sugarcane,5.4,38,48,60,Azospirillum,market,Available in agri shop,Compost slurry
+sandy,rice,7.7,49,69,53,Frateuria aurantia,market,Available in agri shop,Wood ash
+red,rice,6.4,93,50,44,Frateuria aurantia,diy,Available in agri shop,Wood ash
+loamy,rice,6.7,96,57,57,Frateuria aurantia,market,Available in agri shop,Wood ash
+red,maize,7.5,59,19,79,Mycorrhiza,market,Available in agri shop,Organic compost mix
+sandy,pulses,8.2,67,65,70,Mycorrhiza,diy,Available in agri shop,Organic compost mix
+loamy,potato,7.1,10,77,5,Azotobacter,market,Available in agri shop,Vermicompost
+sandy,maize,7.0,97,56,39,Mycorrhiza,diy,Available in agri shop,Organic compost mix
+loamy,rice,5.4,25,32,31,Azospirillum,market,Available in agri shop,Compost slurry
+loamy,pulses,8.2,51,23,72,PSB,market,Available in agri shop,Bone meal compost
+clayey,sugarcane,7.6,68,22,5,Mycorrhiza,market,Available in agri shop,Organic compost mix
+black,cotton,6.9,42,34,61,Rhizobium,market,Available in agri shop,Legume compost
+loamy,maize,5.7,69,49,15,Potash mobilizing bacteria,market,Available in agri shop,Banana peel compost
+sandy,rice,6.0,18,16,32,Azospirillum,market,Available in agri shop,Compost slurry
+clayey,sugarcane,7.7,31,64,76,Azotobacter,market,Available in agri shop,Vermicompost
+sandy,potato,8.1,26,59,42,Azotobacter,market,Available in agri shop,Vermicompost
+loamy,potato,6.4,53,44,79,Mycorrhiza,market,Available in agri shop,Organic compost mix
+black,wheat,5.1,67,51,12,Frateuria aurantia,diy,Available in agri shop,Wood ash
+sandy,millet,6.0,62,32,59,Rhizobium,diy,Available in agri shop,Legume compost
+sandy,potato,6.0,38,45,71,Rhizobium,market,Available in agri shop,Legume compost
+black,rice,7.9,18,67,57,Azotobacter,market,Available in agri shop,Vermicompost
+sandy,sugarcane,7.0,75,37,72,Potash mobilizing bacteria,market,Available in agri shop,Banana peel compost
+loamy,rice,8.3,47,56,61,Mycorrhiza,market,Available in agri shop,Organic compost mix
+black,cotton,7.9,85,67,7,Frateuria aurantia,diy,Available in agri shop,Wood ash
+loamy,sugarcane,6.8,40,74,59,Frateuria aurantia,market,Available in agri shop,Wood ash
+loamy,sugarcane,6.3,41,12,64,Mycorrhiza,market,Available in agri shop,Organic compost mix
+loamy,sugarcane,6.6,12,26,20,Rhizobium,market,Available in agri shop,Legume compost
+sandy,maize,5.3,54,77,25,Potash mobilizing bacteria,market,Available in agri shop,Banana peel compost
+clayey,sugarcane,8.3,53,55,44,Rhizobium,diy,Available in agri shop,Legume compost
+loamy,wheat,7.6,43,9,26,PSB,diy,Available in agri shop,Bone meal compost
+red,pulses,7.8,48,74,64,Frateuria aurantia,diy,Available in agri shop,Wood ash
+red,millet,8.4,73,23,29,Mycorrhiza,diy,Available in agri shop,Organic compost mix
+red,cotton,6.6,45,41,38,Azospirillum,diy,Available in agri shop,Compost slurry
+red,pulses,8.5,83,34,16,Frateuria aurantia,diy,Available in agri shop,Wood ash
+loamy,maize,7.4,34,21,79,Azotobacter,diy,Available in agri shop,Vermicompost
+sandy,maize,7.1,90,36,33,Potash mobilizing bacteria,market,Available in agri shop,Banana peel compost
+sandy,potato,7.3,44,30,30,Azotobacter,diy,Available in agri shop,Vermicompost
+red,cotton,7.1,87,39,54,Azotobacter,diy,Available in agri shop,Vermicompost
+clayey,sugarcane,7.0,90,47,36,Azotobacter,market,Available in agri shop,Vermicompost
+black,cotton,7.1,40,38,5,Frateuria aurantia,diy,Available in agri shop,Wood ash
+loamy,pulses,7.9,97,77,33,Mycorrhiza,market,Available in agri shop,Organic compost mix
+loamy,potato,8.4,65,21,76,PSB,market,Available in agri shop,Bone meal compost
+sandy,potato,8.0,56,70,11,Frateuria aurantia,diy,Available in agri shop,Wood ash
+sandy,cotton,6.2,27,27,68,Rhizobium,diy,Available in agri shop,Legume compost
+loamy,potato,8.2,33,16,72,Rhizobium,market,Available in agri shop,Legume compost
+sandy,potato,7.9,64,43,45,Potash mobilizing bacteria,diy,Available in agri shop,Banana peel compost
+sandy,millet,6.5,77,68,33,Frateuria aurantia,diy,Available in agri shop,Wood ash
+loamy,maize,6.3,17,33,45,Azospirillum,diy,Available in agri shop,Compost slurry
+clayey,rice,6.8,98,57,18,Frateuria aurantia,market,Available in agri shop,Wood ash
+red,millet,5.8,76,77,45,Mycorrhiza,market,Available in agri shop,Organic compost mix
+black,wheat,5.6,78,29,34,Potash mobilizing bacteria,market,Available in agri shop,Banana peel compost
+sandy,wheat,8.0,67,73,12,Frateuria aurantia,diy,Available in agri shop,Wood ash
+loamy,wheat,6.9,29,45,70,Rhizobium,market,Available in agri shop,Legume compost
+loamy,potato,7.8,18,30,24,Rhizobium,market,Available in agri shop,Legume compost
+clayey,sugarcane,5.3,36,74,41,Azospirillum,market,Available in agri shop,Compost slurry
+clayey,maize,7.0,88,80,50,Mycorrhiza,diy,Available in agri shop,Organic compost mix
+black,wheat,5.7,35,13,70,Azotobacter,diy,Available in agri shop,Vermicompost
+clayey,maize,5.7,18,63,79,Azospirillum,diy,Available in agri shop,Compost slurry
+clayey,sugarcane,7.0,49,62,65,PSB,market,Available in agri shop,Bone meal compost
+sandy,wheat,6.7,23,60,77,Rhizobium,diy,Available in agri shop,Legume compost
+loamy,potato,8.0,93,20,10,PSB,market,Available in agri shop,Bone meal compost
+sandy,millet,7.6,27,29,18,Rhizobium,diy,Available in agri shop,Legume compost
+loamy,potato,8.0,94,30,43,Frateuria aurantia,diy,Available in agri shop,Wood ash
+loamy,wheat,7.3,48,61,36,Rhizobium,diy,Available in agri shop,Legume compost
+black,wheat,5.7,39,43,45,Azotobacter,market,Available in agri shop,Vermicompost
+loamy,pulses,6.8,78,79,79,Azotobacter,market,Available in agri shop,Vermicompost
+clayey,sugarcane,5.3,34,79,60,Azotobacter,market,Available in agri shop,Vermicompost
+loamy,wheat,6.7,57,28,66,Azospirillum,market,Available in agri shop,Compost slurry
+loamy,potato,7.4,16,12,19,Azospirillum,market,Available in agri shop,Compost slurry
+loamy,maize,5.7,24,6,63,Azospirillum,market,Available in agri shop,Compost slurry
+loamy,sugarcane,7.5,61,68,41,Mycorrhiza,diy,Available in agri shop,Organic compost mix
+loamy,potato,6.4,29,68,43,Rhizobium,market,Available in agri shop,Legume compost
+red,wheat,7.9,73,5,50,Mycorrhiza,diy,Available in agri shop,Organic compost mix
+loamy,sugarcane,8.0,78,69,75,PSB,diy,Available in agri shop,Bone meal compost
+sandy,maize,7.2,100,67,70,Potash mobilizing bacteria,diy,Available in agri shop,Banana peel compost
+red,pulses,8.4,55,69,78,Potash mobilizing bacteria,market,Available in agri shop,Banana peel compost
+red,sugarcane,8.3,58,22,55,PSB,market,Available in agri shop,Bone meal compost
+black,millet,6.1,55,24,74,PSB,diy,Available in agri shop,Bone meal compost
+black,wheat,6.4,99,20,6,Mycorrhiza,diy,Available in agri shop,Organic compost mix
+loamy,wheat,5.1,87,33,26,Frateuria aurantia,diy,Available in agri shop,Wood ash
+clayey,wheat,8.5,76,42,30,Azotobacter,diy,Available in agri shop,Vermicompost
+loamy,maize,7.6,69,80,33,Azotobacter,diy,Available in agri shop,Vermicompost
+red,cotton,7.7,77,14,79,Mycorrhiza,diy,Available in agri shop,Organic compost mix
+sandy,sugarcane,8.3,73,43,73,Frateuria aurantia,diy,Available in agri shop,Wood ash
+loamy,sugarcane,7.6,14,54,10,Rhizobium,diy,Available in agri shop,Legume compost
+loamy,rice,8.0,71,71,49,Potash mobilizing bacteria,market,Available in agri shop,Banana peel compost
+sandy,maize,6.6,93,49,77,Potash mobilizing bacteria,market,Available in agri shop,Banana peel compost
+clayey,sugarcane,7.7,35,11,55,Rhizobium,market,Available in agri shop,Legume compost
+loamy,wheat,8.2,88,75,72,Azotobacter,diy,Available in agri shop,Vermicompost
+red,millet,6.7,73,32,67,Frateuria aurantia,market,Available in agri shop,Wood ash
+clayey,millet,5.8,95,20,29,PSB,diy,Available in agri shop,Bone meal compost
+black,cotton,6.0,89,53,47,Azospirillum,diy,Available in agri shop,Compost slurry
+black,cotton,6.9,89,52,56,Frateuria aurantia,diy,Available in agri shop,Wood ash
+sandy,rice,5.1,79,25,37,PSB,diy,Available in agri shop,Bone meal compost
+sandy,potato,6.6,63,53,14,Potash mobilizing bacteria,market,Available in agri shop,Banana peel compost
+black,wheat,7.1,13,60,68,Azotobacter,market,Available in agri shop,Vermicompost
+loamy,wheat,7.3,35,36,69,Rhizobium,market,Available in agri shop,Legume compost
+black,cotton,7.8,64,56,41,Azospirillum,diy,Available in agri shop,Compost slurry
+clayey,wheat,5.5,37,71,27,Rhizobium,market,Available in agri shop,Legume compost
+loamy,wheat,7.5,48,23,58,PSB,market,Available in agri shop,Bone meal compost
+black,wheat,5.0,90,60,31,Mycorrhiza,market,Available in agri shop,Organic compost mix
+sandy,maize,8.1,50,16,9,PSB,diy,Available in agri shop,Bone meal compost
+loamy,maize,8.0,67,68,19,Frateuria aurantia,diy,Available in agri shop,Wood ash
+sandy,potato,5.4,98,63,34,PSB,diy,Available in agri shop,Bone meal compost
+red,pulses,5.4,13,58,36,Azotobacter,diy,Available in agri shop,Vermicompost
+sandy,potato,7.9,68,63,61,Potash mobilizing bacteria,diy,Available in agri shop,Banana peel compost
+sandy,potato,6.6,10,10,8,Azotobacter,diy,Available in agri shop,Vermicompost
+sandy,wheat,7.7,76,45,8,Potash mobilizing bacteria,market,Available in agri shop,Banana peel compost
+sandy,maize,5.9,37,11,29,Azospirillum,diy,Available in agri shop,Compost slurry
+clayey,maize,6.4,19,71,13,Azospirillum,market,Available in agri shop,Compost slurry
+red,millet,8.0,50,38,22,Frateuria aurantia,diy,Available in agri shop,Wood ash
+sandy,maize,7.4,60,74,75,Rhizobium,market,Available in agri shop,Legume compost
+red,millet,5.1,54,13,58,Mycorrhiza,market,Available in agri shop,Organic compost mix
+sandy,maize,5.3,29,20,54,Rhizobium,market,Available in agri shop,Legume compost
+sandy,millet,6.7,97,48,56,Azospirillum,diy,Available in agri shop,Compost slurry
+clayey,sugarcane,7.9,74,31,28,Frateuria aurantia,market,Available in agri shop,Wood ash
+loamy,wheat,7.2,91,24,37,Mycorrhiza,market,Available in agri shop,Organic compost mix
+loamy,rice,7.0,43,45,6,Potash mobilizing bacteria,diy,Available in agri shop,Banana peel compost
+black,wheat,5.8,20,10,62,Azotobacter,diy,Available in agri shop,Vermicompost
+clayey,pulses,8.4,91,30,41,Potash mobilizing bacteria,diy,Available in agri shop,Banana peel compost
+loamy,rice,5.3,91,39,37,Potash mobilizing bacteria,market,Available in agri shop,Banana peel compost
+clayey,sugarcane,8.1,42,42,7,Potash mobilizing bacteria,diy,Available in agri shop,Banana peel compost
+red,millet,6.5,14,50,43,Azotobacter,market,Available in agri shop,Vermicompost
+sandy,millet,5.3,43,40,62,Azospirillum,market,Available in agri shop,Compost slurry
+black,cotton,6.1,30,39,79,Azotobacter,market,Available in agri shop,Vermicompost
+sandy,millet,6.0,67,13,77,PSB,diy,Available in agri shop,Bone meal compost
+sandy,millet,5.3,94,48,73,Azospirillum,diy,Available in agri shop,Compost slurry
+red,cotton,5.1,79,24,33,Mycorrhiza,diy,Available in agri shop,Organic compost mix
+red,wheat,6.6,86,58,62,Frateuria aurantia,market,Available in agri shop,Wood ash
+loamy,maize,6.3,100,25,53,Potash mobilizing bacteria,diy,Available in agri shop,Banana peel compost
+clayey,maize,8.3,70,9,67,Mycorrhiza,diy,Available in agri shop,Organic compost mix
+clayey,maize,5.9,28,66,58,Rhizobium,diy,Available in agri shop,Legume compost
+loamy,pulses,7.6,59,65,66,Frateuria aurantia,market,Available in agri shop,Wood ash
+loamy,maize,5.9,33,7,69,Azotobacter,market,Available in agri shop,Vermicompost
+loamy,sugarcane,8.1,84,29,21,Potash mobilizing bacteria,market,Available in agri shop,Banana peel compost
+black,wheat,7.7,78,11,8,PSB,market,Available in agri shop,Bone meal compost
+sandy,maize,8.2,28,5,80,Azospirillum,diy,Available in agri shop,Compost slurry
+red,cotton,5.8,11,17,55,Azospirillum,market,Available in agri shop,Compost slurry
+black,cotton,6.2,89,12,30,Mycorrhiza,diy,Available in agri shop,Organic compost mix
+clayey,sugarcane,6.2,75,14,35,Mycorrhiza,market,Available in agri shop,Organic compost mix
+sandy,rice,6.9,21,60,10,Azotobacter,market,Available in agri shop,Vermicompost
+sandy,millet,7.4,36,18,45,Rhizobium,diy,Available in agri shop,Legume compost
+loamy,wheat,5.9,78,32,41,Potash mobilizing bacteria,diy,Available in agri shop,Banana peel compost
+black,cotton,7.3,43,61,40,Mycorrhiza,market,Available in agri shop,Organic compost mix
+red,millet,8.3,35,68,59,Azotobacter,diy,Available in agri shop,Vermicompost
+sandy,maize,5.3,93,80,70,Rhizobium,market,Available in agri shop,Legume compost
+loamy,sugarcane,5.2,70,36,35,Frateuria aurantia,market,Available in agri shop,Wood ash
+loamy,sugarcane,6.0,62,55,22,Potash mobilizing bacteria,market,Available in agri shop,Banana peel compost
+sandy,millet,7.6,23,54,68,Azotobacter,diy,Available in agri shop,Vermicompost
+loamy,maize,7.3,15,31,23,Azotobacter,market,Available in agri shop,Vermicompost
+red,rice,6.6,20,73,58,Azotobacter,diy,Available in agri shop,Vermicompost
+black,cotton,6.5,40,50,66,PSB,diy,Available in agri shop,Bone meal compost
+clayey,millet,6.2,65,34,51,Frateuria aurantia,market,Available in agri shop,Wood ash
+loamy,sugarcane,5.1,41,79,35,Potash mobilizing bacteria,diy,Available in agri shop,Banana peel compost
+sandy,millet,7.2,40,43,38,Azotobacter,diy,Available in agri shop,Vermicompost
+clayey,cotton,5.9,28,80,72,Azotobacter,diy,Available in agri shop,Vermicompost
+loamy,maize,6.1,58,17,47,PSB,diy,Available in agri shop,Bone meal compost
+loamy,rice,8.3,10,22,19,Azospirillum,market,Available in agri shop,Compost slurry
+black,wheat,8.3,29,78,30,Azotobacter,diy,Available in agri shop,Vermicompost
+loamy,potato,7.4,89,39,25,Frateuria aurantia,market,Available in agri shop,Wood ash
+clayey,sugarcane,7.8,73,65,10,Potash mobilizing bacteria,market,Available in agri shop,Banana peel compost
+sandy,potato,7.5,48,14,10,Mycorrhiza,market,Available in agri shop,Organic compost mix
+loamy,rice,8.2,98,23,35,Mycorrhiza,diy,Available in agri shop,Organic compost mix
+red,cotton,5.4,50,61,57,Rhizobium,market,Available in agri shop,Legume compost
+loamy,sugarcane,8.3,76,61,55,Frateuria aurantia,diy,Available in agri shop,Wood ash
+black,sugarcane,7.9,55,78,7,Frateuria aurantia,market,Available in agri shop,Wood ash
+red,millet,6.0,96,22,72,PSB,market,Available in agri shop,Bone meal compost
+red,pulses,6.7,89,78,38,PSB,market,Available in agri shop,Bone meal compost
+clayey,maize,6.7,33,38,50,Rhizobium,market,Available in agri shop,Legume compost
+red,sugarcane,6.5,61,68,22,Frateuria aurantia,market,Available in agri shop,Wood ash
+loamy,wheat,7.4,84,11,58,PSB,market,Available in agri shop,Bone meal compost
+black,cotton,6.1,39,33,44,Azospirillum,market,Available in agri shop,Compost slurry
+loamy,rice,8.1,74,58,29,Potash mobilizing bacteria,diy,Available in agri shop,Banana peel compost
+red,pulses,6.9,48,23,40,PSB,diy,Available in agri shop,Bone meal compost
+loamy,maize,6.0,57,20,43,Mycorrhiza,diy,Available in agri shop,Organic compost mix
+black,cotton,6.8,34,46,17,Azospirillum,diy,Available in agri shop,Compost slurry
+loamy,rice,5.4,32,65,63,Rhizobium,diy,Available in agri shop,Legume compost
+loamy,sugarcane,5.6,60,57,70,Potash mobilizing bacteria,diy,Available in agri shop,Banana peel compost
+sandy,potato,7.5,99,73,38,Mycorrhiza,diy,Available in agri shop,Organic compost mix
+loamy,potato,8.3,75,45,68,Azospirillum,market,Available in agri shop,Compost slurry
+black,cotton,6.3,16,76,42,Azotobacter,market,Available in agri shop,Vermicompost
+sandy,maize,7.7,34,27,10,Azotobacter,market,Available in agri shop,Vermicompost
+loamy,wheat,6.2,18,53,31,Rhizobium,diy,Available in agri shop,Legume compost
+red,pulses,5.2,37,34,55,Azospirillum,diy,Available in agri shop,Compost slurry
+sandy,maize,7.3,68,12,35,PSB,market,Available in agri shop,Bone meal compost
+loamy,potato,7.1,94,54,47,Frateuria aurantia,diy,Available in agri shop,Wood ash
+sandy,millet,8.5,37,14,76,Rhizobium,diy,Available in agri shop,Legume compost
+loamy,rice,5.3,80,11,80,PSB,market,Available in agri shop,Bone meal compost
+loamy,maize,8.4,81,44,14,Frateuria aurantia,diy,Available in agri shop,Wood ash
+clayey,sugarcane,6.4,19,79,14,Rhizobium,market,Available in agri shop,Legume compost
+loamy,rice,5.6,38,38,44,Azospirillum,market,Available in agri shop,Compost slurry
+loamy,rice,8.0,75,60,9,Frateuria aurantia,diy,Available in agri shop,Wood ash
+loamy,pulses,6.5,80,66,58,PSB,diy,Available in agri shop,Bone meal compost
+clayey,rice,6.4,55,23,39,PSB,market,Available in agri shop,Bone meal compost
+black,cotton,5.6,49,13,80,Mycorrhiza,market,Available in agri shop,Organic compost mix
+red,cotton,7.0,54,32,72,Mycorrhiza,market,Available in agri shop,Organic compost mix
+black,sugarcane,6.8,36,56,11,Azospirillum,market,Available in agri shop,Compost slurry
+black,sugarcane,8.3,64,23,75,Mycorrhiza,market,Available in agri shop,Organic compost mix
+loamy,wheat,7.9,51,21,78,PSB,diy,Available in agri shop,Bone meal compost
+loamy,rice,5.9,59,73,8,Frateuria aurantia,diy,Available in agri shop,Wood ash
+loamy,pulses,6.7,82,71,7,Frateuria aurantia,diy,Available in agri shop,Wood ash
+red,cotton,7.1,26,68,30,Rhizobium,market,Available in agri shop,Legume compost
+sandy,wheat,8.1,36,57,14,Azospirillum,diy,Available in agri shop,Compost slurry
+black,millet,5.4,28,35,14,Azospirillum,diy,Available in agri shop,Compost slurry
+clayey,pulses,7.9,91,24,11,Mycorrhiza,market,Available in agri shop,Organic compost mix
+loamy,pulses,8.4,98,78,28,Frateuria aurantia,market,Available in agri shop,Wood ash
+sandy,maize,7.9,59,26,72,Potash mobilizing bacteria,market,Available in agri shop,Banana peel compost
+clayey,sugarcane,5.8,32,48,13,Azotobacter,market,Available in agri shop,Vermicompost
+loamy,maize,8.1,36,36,54,Azospirillum,diy,Available in agri shop,Compost slurry
+loamy,pulses,8.5,63,40,18,Potash mobilizing bacteria,market,Available in agri shop,Banana peel compost
+sandy,millet,5.9,54,21,10,Mycorrhiza,market,Available in agri shop,Organic compost mix
+red,millet,8.0,97,16,31,PSB,diy,Available in agri shop,Bone meal compost
+black,millet,6.4,71,61,6,Frateuria aurantia,market,Available in agri shop,Wood ash
+sandy,potato,7.7,21,71,8,Rhizobium,market,Available in agri shop,Legume compost
+sandy,maize,5.5,56,73,11,Frateuria aurantia,diy,Available in agri shop,Wood ash
+clayey,rice,7.7,51,8,61,Mycorrhiza,diy,Available in agri shop,Organic compost mix
+black,maize,5.4,44,44,54,Azospirillum,diy,Available in agri shop,Compost slurry
+loamy,wheat,7.0,59,41,66,PSB,market,Available in agri shop,Bone meal compost
+loamy,potato,7.6,52,51,42,Rhizobium,diy,Available in agri shop,Legume compost
+red,maize,8.0,17,50,35,Rhizobium,diy,Available in agri shop,Legume compost
+red,potato,8.4,93,26,13,Potash mobilizing bacteria,market,Available in agri shop,Banana peel compost
+loamy,wheat,6.4,43,46,66,Mycorrhiza,market,Available in agri shop,Organic compost mix
+loamy,maize,5.9,72,68,41,Azospirillum,market,Available in agri shop,Compost slurry
+clayey,sugarcane,5.4,86,5,5,Mycorrhiza,market,Available in agri shop,Organic compost mix
+black,cotton,7.1,91,55,49,Frateuria aurantia,diy,Available in agri shop,Wood ash
+loamy,potato,5.5,99,19,47,PSB,market,Available in agri shop,Bone meal compost
+loamy,sugarcane,6.4,39,35,53,Azotobacter,market,Available in agri shop,Vermicompost
+red,pulses,7.6,78,62,47,Potash mobilizing bacteria,market,Available in agri shop,Banana peel compost
+clayey,rice,5.8,20,65,30,Azotobacter,market,Available in agri shop,Vermicompost
+loamy,sugarcane,7.6,67,24,26,Mycorrhiza,market,Available in agri shop,Organic compost mix
+black,wheat,7.1,52,13,72,PSB,market,Available in agri shop,Bone meal compost
+loamy,wheat,6.5,89,50,12,Potash mobilizing bacteria,market,Available in agri shop,Banana peel compost
+red,millet,6.1,44,5,45,Mycorrhiza,market,Available in agri shop,Organic compost mix
+loamy,wheat,6.6,100,80,60,Azospirillum,market,Available in agri shop,Compost slurry
+black,wheat,6.7,66,15,44,PSB,market,Available in agri shop,Bone meal compost
+loamy,sugarcane,5.8,54,6,48,Mycorrhiza,diy,Available in agri shop,Organic compost mix
+red,pulses,8.1,25,23,58,Rhizobium,market,Available in agri shop,Legume compost
+red,millet,8.5,95,14,77,Mycorrhiza,diy,Available in agri shop,Organic compost mix
+loamy,rice,7.4,78,12,72,PSB,market,Available in agri shop,Bone meal compost
+red,sugarcane,7.2,81,46,45,PSB,market,Available in agri shop,Bone meal compost
+sandy,maize,6.8,94,14,32,PSB,diy,Available in agri shop,Bone meal compost
+clayey,sugarcane,6.8,45,41,17,Potash mobilizing bacteria,diy,Available in agri shop,Banana peel compost
+loamy,pulses,5.4,85,14,78,Mycorrhiza,market,Available in agri shop,Organic compost mix
+loamy,rice,8.5,14,25,75,Azospirillum,diy,Available in agri shop,Compost slurry
+sandy,millet,7.0,40,54,31,Mycorrhiza,diy,Available in agri shop,Organic compost mix
+red,pulses,7.2,19,53,69,Azospirillum,market,Available in agri shop,Compost slurry
+clayey,rice,8.0,70,27,40,Potash mobilizing bacteria,diy,Available in agri shop,Banana peel compost
+loamy,wheat,8.3,51,16,11,PSB,market,Available in agri shop,Bone meal compost
+loamy,pulses,8.1,94,38,30,Frateuria aurantia,market,Available in agri shop,Wood ash
+clayey,rice,7.4,43,75,70,Frateuria aurantia,market,Available in agri shop,Wood ash
+sandy,millet,5.9,93,76,9,Potash mobilizing bacteria,diy,Available in agri shop,Banana peel compost
+black,wheat,7.7,40,74,23,Frateuria aurantia,market,Available in agri shop,Wood ash
+loamy,potato,6.8,69,53,61,Rhizobium,diy,Available in agri shop,Legume compost
+black,sugarcane,6.0,57,7,12,PSB,market,Available in agri shop,Bone meal compost
+loamy,cotton,5.1,47,62,56,Frateuria aurantia,market,Available in agri shop,Wood ash
+clayey,cotton,5.9,53,56,54,Mycorrhiza,diy,Available in agri shop,Organic compost mix
+loamy,sugarcane,8.3,18,38,34,Rhizobium,diy,Available in agri shop,Legume compost
+red,pulses,7.4,27,75,72,Azotobacter,market,Available in agri shop,Vermicompost
+loamy,rice,7.0,66,13,65,PSB,diy,Available in agri shop,Bone meal compost
+clayey,sugarcane,5.3,72,17,38,PSB,market,Available in agri shop,Bone meal compost
+loamy,wheat,7.6,10,63,69,Rhizobium,market,Available in agri shop,Legume compost
+loamy,cotton,6.3,54,68,30,Azotobacter,diy,Available in agri shop,Vermicompost
+loamy,wheat,5.3,81,46,5,Potash mobilizing bacteria,market,Available in agri shop,Banana peel compost
+red,cotton,6.9,46,53,50,Azospirillum,diy,Available in agri shop,Compost slurry
+clayey,sugarcane,5.3,71,37,21,Potash mobilizing bacteria,market,Available in agri shop,Banana peel compost
+sandy,maize,5.7,61,35,36,Frateuria aurantia,diy,Available in agri shop,Wood ash
+black,cotton,7.3,55,49,38,Potash mobilizing bacteria,market,Available in agri shop,Banana peel compost
+loamy,sugarcane,7.2,72,68,72,Azotobacter,market,Available in agri shop,Vermicompost
+loamy,potato,5.4,47,24,48,PSB,diy,Available in agri shop,Bone meal compost
+black,sugarcane,6.2,16,39,18,Azospirillum,diy,Available in agri shop,Compost slurry
+black,wheat,5.9,69,22,20,PSB,diy,Available in agri shop,Bone meal compost
+red,millet,7.3,82,75,80,Azotobacter,market,Available in agri shop,Vermicompost
+red,cotton,6.7,54,22,49,PSB,diy,Available in agri shop,Bone meal compost
+sandy,pulses,5.3,38,77,38,Azotobacter,diy,Available in agri shop,Vermicompost
+loamy,rice,7.4,40,21,70,PSB,diy,Available in agri shop,Bone meal compost
+loamy,wheat,6.4,39,59,54,Azospirillum,diy,Available in agri shop,Compost slurry
+red,millet,5.6,84,62,53,Mycorrhiza,diy,Available in agri shop,Organic compost mix
+sandy,maize,6.1,51,10,57,PSB,diy,Available in agri shop,Bone meal compost
+loamy,pulses,7.6,52,75,71,Azospirillum,diy,Available in agri shop,Compost slurry
+sandy,potato,5.2,16,23,54,Azospirillum,market,Available in agri shop,Compost slurry
+loamy,potato,7.3,89,26,10,Frateuria aurantia,market,Available in agri shop,Wood ash
+sandy,millet,5.2,41,69,26,Potash mobilizing bacteria,market,Available in agri shop,Banana peel compost
+loamy,wheat,5.4,57,80,55,PSB,diy,Available in agri shop,Bone meal compost
+loamy,sugarcane,7.2,85,29,11,Frateuria aurantia,diy,Available in agri shop,Wood ash
+sandy,millet,6.6,43,35,28,Frateuria aurantia,market,Available in agri shop,Wood ash
+clayey,wheat,7.8,63,45,71,Azotobacter,diy,Available in agri shop,Vermicompost
+clayey,rice,5.9,26,5,31,Rhizobium,market,Available in agri shop,Legume compost
+loamy,sugarcane,5.4,46,69,49,Potash mobilizing bacteria,market,Available in agri shop,Banana peel compost
+sandy,potato,7.1,35,56,45,Azospirillum,diy,Available in agri shop,Compost slurry
+loamy,rice,5.2,54,41,27,Frateuria aurantia,market,Available in agri shop,Wood ash
+clayey,potato,6.6,76,69,75,PSB,diy,Available in agri shop,Bone meal compost
+loamy,pulses,7.8,80,63,79,Mycorrhiza,market,Available in agri shop,Organic compost mix
+loamy,rice,6.4,68,75,54,Mycorrhiza,diy,Available in agri shop,Organic compost mix
+sandy,millet,6.1,88,71,69,Frateuria aurantia,market,Available in agri shop,Wood ash
+loamy,wheat,8.4,56,43,37,Frateuria aurantia,diy,Available in agri shop,Wood ash
+black,wheat,5.3,32,58,56,Azospirillum,diy,Available in agri shop,Compost slurry
+clayey,rice,8.4,39,41,29,Rhizobium,market,Available in agri shop,Legume compost
+sandy,millet,6.5,73,20,69,PSB,diy,Available in agri shop,Bone meal compost
+red,cotton,7.3,90,40,27,Frateuria aurantia,diy,Available in agri shop,Wood ash
+sandy,maize,5.3,88,17,27,PSB,market,Available in agri shop,Bone meal compost
+sandy,millet,8.4,75,38,9,Potash mobilizing bacteria,market,Available in agri shop,Banana peel compost
+black,wheat,5.3,46,44,52,PSB,market,Available in agri shop,Bone meal compost
+black,wheat,5.8,100,53,63,Azospirillum,diy,Available in agri shop,Compost slurry
+clayey,rice,5.1,60,10,74,PSB,market,Available in agri shop,Bone meal compost
+black,wheat,7.1,68,40,15,Potash mobilizing bacteria,diy,Available in agri shop,Banana peel compost
+sandy,millet,8.2,67,28,11,Frateuria aurantia,diy,Available in agri shop,Wood ash
+loamy,cotton,6.4,82,21,10,PSB,market,Available in agri shop,Bone meal compost
+clayey,sugarcane,7.7,51,5,68,PSB,diy,Available in agri shop,Bone meal compost
+red,pulses,8.0,53,38,20,Frateuria aurantia,market,Available in agri shop,Wood ash
+loamy,maize,6.4,73,35,33,Mycorrhiza,market,Available in agri shop,Organic compost mix
+loamy,pulses,6.5,98,79,5,Potash mobilizing bacteria,market,Available in agri shop,Banana peel compost
+sandy,maize,8.0,54,10,59,Mycorrhiza,market,Available in agri shop,Organic compost mix
+loamy,pulses,8.2,73,42,24,Potash mobilizing bacteria,diy,Available in agri shop,Banana peel compost
+clayey,sugarcane,8.4,88,54,14,Frateuria aurantia,market,Available in agri shop,Wood ash
+red,rice,7.0,26,16,75,Rhizobium,market,Available in agri shop,Legume compost
+loamy,pulses,6.8,46,47,70,Azotobacter,diy,Available in agri shop,Vermicompost
+red,cotton,7.6,67,8,56,PSB,diy,Available in agri shop,Bone meal compost
+clayey,sugarcane,8.1,14,68,5,Rhizobium,market,Available in agri shop,Legume compost
+red,millet,6.8,71,61,8,Potash mobilizing bacteria,diy,Available in agri shop,Banana peel compost
+black,wheat,7.8,48,60,36,Potash mobilizing bacteria,market,Available in agri shop,Banana peel compost
+red,cotton,7.0,36,57,48,Azotobacter,diy,Available in agri shop,Vermicompost
+black,rice,8.1,57,36,24,Frateuria aurantia,market,Available in agri shop,Wood ash
+loamy,maize,7.4,64,77,19,Potash mobilizing bacteria,diy,Available in agri shop,Banana peel compost
+loamy,potato,5.7,77,15,45,Mycorrhiza,market,Available in agri shop,Organic compost mix
+loamy,potato,7.0,40,43,34,Rhizobium,diy,Available in agri shop,Legume compost
+red,pulses,5.0,77,52,48,Azotobacter,diy,Available in agri shop,Vermicompost
+red,pulses,5.9,28,79,67,Rhizobium,market,Available in agri shop,Legume compost
+sandy,maize,6.8,40,76,40,Potash mobilizing bacteria,market,Available in agri shop,Banana peel compost
+black,wheat,8.3,85,47,74,Potash mobilizing bacteria,market,Available in agri shop,Banana peel compost
+sandy,potato,5.1,28,56,70,Azospirillum,diy,Available in agri shop,Compost slurry
+loamy,wheat,5.5,86,29,56,PSB,market,Available in agri shop,Bone meal compost
+red,cotton,6.7,49,73,48,Mycorrhiza,diy,Available in agri shop,Organic compost mix
+black,wheat,7.0,88,37,6,Frateuria aurantia,diy,Available in agri shop,Wood ash
+sandy,sugarcane,7.1,100,22,67,Mycorrhiza,diy,Available in agri shop,Organic compost mix
+red,maize,6.6,28,59,41,Azospirillum,market,Available in agri shop,Compost slurry
+red,pulses,7.7,18,74,79,Rhizobium,market,Available in agri shop,Legume compost
+loamy,potato,7.6,98,60,66,Azotobacter,diy,Available in agri shop,Vermicompost
+sandy,cotton,5.8,75,22,63,Mycorrhiza,market,Available in agri shop,Organic compost mix
+red,pulses,5.5,79,48,19,Potash mobilizing bacteria,market,Available in agri shop,Banana peel compost
+red,millet,6.3,25,7,69,Azospirillum,market,Available in agri shop,Compost slurry
+loamy,pulses,7.2,47,8,25,Mycorrhiza,market,Available in agri shop,Organic compost mix
+sandy,millet,5.8,78,37,47,Rhizobium,diy,Available in agri shop,Legume compost
+black,cotton,6.2,55,31,68,Rhizobium,diy,Available in agri shop,Legume compost
+black,wheat,7.8,45,58,18,Potash mobilizing bacteria,diy,Available in agri shop,Banana peel compost
+loamy,maize,7.4,14,49,69,Azospirillum,diy,Available in agri shop,Compost slurry
+clayey,sugarcane,6.2,27,23,37,Azotobacter,market,Available in agri shop,Vermicompost
+sandy,maize,5.2,88,67,65,Rhizobium,diy,Available in agri shop,Legume compost
+clayey,sugarcane,6.5,63,73,60,Potash mobilizing bacteria,diy,Available in agri shop,Banana peel compost
+sandy,maize,8.3,16,15,37,Azospirillum,market,Available in agri shop,Compost slurry
+sandy,maize,6.0,49,61,58,Frateuria aurantia,diy,Available in agri shop,Wood ash
+red,millet,8.3,15,65,31,Rhizobium,market,Available in agri shop,Legume compost
+red,rice,6.5,86,56,47,Frateuria aurantia,diy,Available in agri shop,Wood ash
+sandy,potato,8.3,80,64,11,Frateuria aurantia,diy,Available in agri shop,Wood ash
+loamy,sugarcane,5.2,62,39,25,Frateuria aurantia,market,Available in agri shop,Wood ash
+black,cotton,8.1,40,68,38,PSB,diy,Available in agri shop,Bone meal compost
+red,potato,5.0,45,14,51,PSB,diy,Available in agri shop,Bone meal compost
+black,maize,6.7,100,55,39,Frateuria aurantia,diy,Available in agri shop,Wood ash
+loamy,rice,6.9,22,39,72,Azospirillum,market,Available in agri shop,Compost slurry
+clayey,sugarcane,7.2,22,32,15,Rhizobium,market,Available in agri shop,Legume compost
+black,cotton,6.9,80,51,19,Potash mobilizing bacteria,market,Available in agri shop,Banana peel compost
+sandy,potato,8.4,80,71,72,Mycorrhiza,diy,Available in agri shop,Organic compost mix
+loamy,wheat,7.9,52,32,41,PSB,diy,Available in agri shop,Bone meal compost
+red,millet,7.7,93,28,44,Rhizobium,market,Available in agri shop,Legume compost
+red,cotton,6.0,30,56,62,Azotobacter,market,Available in agri shop,Vermicompost
+sandy,millet,6.1,49,73,65,Mycorrhiza,market,Available in agri shop,Organic compost mix
+loamy,potato,5.9,12,28,27,Rhizobium,diy,Available in agri shop,Legume compost
+red,millet,6.3,61,15,14,PSB,market,Available in agri shop,Bone meal compost
+red,millet,7.8,88,49,51,Potash mobilizing bacteria,diy,Available in agri shop,Banana peel compost
+red,pulses,7.9,65,17,56,PSB,market,Available in agri shop,Bone meal compost
+sandy,maize,6.1,34,71,39,Azotobacter,market,Available in agri shop,Vermicompost
+black,wheat,5.9,28,64,66,Azotobacter,market,Available in agri shop,Vermicompost
+red,millet,6.9,57,29,69,Azotobacter,market,Available in agri shop,Vermicompost
+red,wheat,5.5,13,43,76,Rhizobium,market,Available in agri shop,Legume compost
+clayey,rice,8.2,37,73,65,Rhizobium,market,Available in agri shop,Legume compost
+loamy,pulses,6.2,63,18,32,Mycorrhiza,market,Available in agri shop,Organic compost mix
+clayey,rice,5.8,74,79,13,Potash mobilizing bacteria,diy,Available in agri shop,Banana peel compost
+loamy,sugarcane,6.0,60,65,80,Mycorrhiza,diy,Available in agri shop,Organic compost mix
+black,wheat,7.2,72,7,19,PSB,market,Available in agri shop,Bone meal compost
+clayey,sugarcane,6.4,97,7,63,PSB,diy,Available in agri shop,Bone meal compost
+black,wheat,7.9,70,14,21,PSB,diy,Available in agri shop,Bone meal compost
+clayey,rice,5.2,38,45,46,Rhizobium,diy,Available in agri shop,Legume compost
+red,cotton,5.5,33,27,50,Rhizobium,market,Available in agri shop,Legume compost
+sandy,millet,5.9,54,46,52,Mycorrhiza,market,Available in agri shop,Organic compost mix
+loamy,sugarcane,7.7,46,33,13,Frateuria aurantia,diy,Available in agri shop,Wood ash
+loamy,sugarcane,6.3,90,62,55,PSB,diy,Available in agri shop,Bone meal compost
+loamy,potato,8.0,89,64,23,Potash mobilizing bacteria,market,Available in agri shop,Banana peel compost
+clayey,sugarcane,7.7,45,34,41,Potash mobilizing bacteria,diy,Available in agri shop,Banana peel compost
+clayey,sugarcane,7.2,98,76,73,Azospirillum,diy,Available in agri shop,Compost slurry
+sandy,wheat,7.4,46,72,72,Frateuria aurantia,diy,Available in agri shop,Wood ash
+red,millet,5.5,17,40,48,Azotobacter,market,Available in agri shop,Vermicompost
+clayey,rice,6.7,69,24,22,Mycorrhiza,diy,Available in agri shop,Organic compost mix
+red,pulses,5.7,92,31,62,Azospirillum,diy,Available in agri shop,Compost slurry
+red,cotton,6.4,91,38,73,Rhizobium,diy,Available in agri shop,Legume compost
+sandy,potato,6.5,30,33,43,Azospirillum,diy,Available in agri shop,Compost slurry
+clayey,sugarcane,8.3,79,77,6,Frateuria aurantia,market,Available in agri shop,Wood ash
+sandy,potato,5.4,90,64,24,Frateuria aurantia,diy,Available in agri shop,Wood ash
+sandy,maize,5.6,47,7,16,Mycorrhiza,diy,Available in agri shop,Organic compost mix
+loamy,potato,5.1,65,32,65,Potash mobilizing bacteria,market,Available in agri shop,Banana peel compost
+loamy,potato,5.4,32,17,15,Azotobacter,diy,Available in agri shop,Vermicompost
+sandy,wheat,7.8,78,49,13,Potash mobilizing bacteria,diy,Available in agri shop,Banana peel compost
+loamy,maize,7.2,26,44,48,Azotobacter,diy,Available in agri shop,Vermicompost
+sandy,rice,7.1,31,45,23,Azospirillum,diy,Available in agri shop,Compost slurry
+sandy,sugarcane,5.4,84,51,13,Frateuria aurantia,market,Available in agri shop,Wood ash
+red,potato,6.1,65,44,79,Mycorrhiza,market,Available in agri shop,Organic compost mix
+clayey,rice,8.2,48,61,64,Mycorrhiza,market,Available in agri shop,Organic compost mix
+sandy,wheat,6.1,91,78,23,Potash mobilizing bacteria,market,Available in agri shop,Banana peel compost
+sandy,potato,5.5,74,26,14,Frateuria aurantia,diy,Available in agri shop,Wood ash
+loamy,potato,8.3,21,27,72,Rhizobium,market,Available in agri shop,Legume compost
+clayey,rice,6.4,16,6,26,Azotobacter,market,Available in agri shop,Vermicompost
+loamy,sugarcane,6.7,51,79,63,Azospirillum,diy,Available in agri shop,Compost slurry
+black,cotton,6.8,82,13,59,Mycorrhiza,diy,Available in agri shop,Organic compost mix
+red,pulses,8.2,50,60,75,Azospirillum,diy,Available in agri shop,Compost slurry
+loamy,maize,7.3,56,50,7,Frateuria aurantia,market,Available in agri shop,Wood ash
+sandy,millet,6.9,29,47,50,Azotobacter,diy,Available in agri shop,Vermicompost
+black,cotton,7.5,40,28,5,Potash mobilizing bacteria,market,Available in agri shop,Banana peel compost
+red,pulses,7.0,30,23,28,Azotobacter,market,Available in agri shop,Vermicompost
+loamy,maize,8.3,80,74,52,PSB,diy,Available in agri shop,Bone meal compost
+black,wheat,7.0,37,20,63,Azotobacter,diy,Available in agri shop,Vermicompost
+sandy,millet,5.4,45,72,55,Rhizobium,diy,Available in agri shop,Legume compost
+red,cotton,7.5,47,42,24,Potash mobilizing bacteria,diy,Available in agri shop,Banana peel compost
+loamy,sugarcane,8.5,28,35,55,Azospirillum,market,Available in agri shop,Compost slurry
+red,pulses,7.4,94,67,49,Mycorrhiza,market,Available in agri shop,Organic compost mix
+clayey,potato,5.3,44,15,23,PSB,diy,Available in agri shop,Bone meal compost
+clayey,wheat,5.4,33,79,46,Rhizobium,market,Available in agri shop,Legume compost
+loamy,cotton,8.0,98,67,79,Mycorrhiza,market,Available in agri shop,Organic compost mix
+sandy,millet,7.5,64,34,34,Potash mobilizing bacteria,market,Available in agri shop,Banana peel compost
+red,potato,6.9,35,40,45,Rhizobium,diy,Available in agri shop,Legume compost
+black,cotton,5.0,24,37,28,Azospirillum,market,Available in agri shop,Compost slurry
+loamy,potato,7.2,95,60,49,Azotobacter,market,Available in agri shop,Vermicompost
+loamy,maize,8.2,77,25,71,Frateuria aurantia,diy,Available in agri shop,Wood ash
+loamy,sugarcane,6.7,38,12,7,Rhizobium,diy,Available in agri shop,Legume compost
+black,cotton,6.1,97,14,71,PSB,diy,Available in agri shop,Bone meal compost
+black,sugarcane,7.9,66,14,44,Mycorrhiza,market,Available in agri shop,Organic compost mix
+sandy,millet,5.3,69,76,23,Frateuria aurantia,diy,Available in agri shop,Wood ash
+red,millet,5.5,76,73,42,Mycorrhiza,market,Available in agri shop,Organic compost mix
+black,cotton,5.6,23,60,65,Azospirillum,diy,Available in agri shop,Compost slurry
+clayey,millet,7.2,82,19,66,Mycorrhiza,diy,Available in agri shop,Organic compost mix
+sandy,maize,6.7,98,34,60,Rhizobium,diy,Available in agri shop,Legume compost
+black,cotton,5.1,26,13,23,Azotobacter,market,Available in agri shop,Vermicompost
+black,cotton,7.9,24,25,56,Rhizobium,diy,Available in agri shop,Legume compost
+sandy,cotton,7.8,76,22,28,Mycorrhiza,market,Available in agri shop,Organic compost mix
+sandy,potato,7.3,15,21,59,Rhizobium,market,Available in agri shop,Legume compost
+black,millet,7.9,100,8,71,Mycorrhiza,market,Available in agri shop,Organic compost mix
+loamy,maize,5.8,91,9,22,Mycorrhiza,market,Available in agri shop,Organic compost mix
+red,potato,7.2,36,39,22,Azospirillum,market,Available in agri shop,Compost slurry
+loamy,pulses,7.5,75,6,60,Mycorrhiza,market,Available in agri shop,Organic compost mix
+sandy,millet,7.2,49,6,47,PSB,market,Available in agri shop,Bone meal compost
+clayey,sugarcane,7.4,72,52,43,PSB,market,Available in agri shop,Bone meal compost
+black,cotton,7.0,45,66,44,PSB,market,Available in agri shop,Bone meal compost
+black,wheat,6.2,73,15,10,Mycorrhiza,market,Available in agri shop,Organic compost mix
+sandy,potato,7.5,50,20,66,Mycorrhiza,market,Available in agri shop,Organic compost mix
+loamy,rice,6.5,82,56,44,PSB,diy,Available in agri shop,Bone meal compost
+sandy,maize,8.4,24,58,72,Azospirillum,diy,Available in agri shop,Compost slurry
+black,potato,6.1,90,5,61,PSB,diy,Available in agri shop,Bone meal compost
+red,millet,6.8,68,35,77,Mycorrhiza,diy,Available in agri shop,Organic compost mix
+red,cotton,5.5,66,44,58,Potash mobilizing bacteria,market,Available in agri shop,Banana peel compost
+loamy,cotton,5.6,22,24,72,Rhizobium,diy,Available in agri shop,Legume compost
+red,sugarcane,5.1,19,29,78,Azotobacter,market,Available in agri shop,Vermicompost
+black,sugarcane,8.3,46,26,5,Frateuria aurantia,diy,Available in agri shop,Wood ash
+loamy,wheat,6.7,41,48,58,PSB,market,Available in agri shop,Bone meal compost
+loamy,potato,6.9,83,71,56,Potash mobilizing bacteria,diy,Available in agri shop,Banana peel compost
+sandy,millet,5.9,90,25,44,Frateuria aurantia,diy,Available in agri shop,Wood ash
+black,wheat,5.3,44,22,8,Mycorrhiza,market,Available in agri shop,Organic compost mix
+loamy,rice,7.5,57,53,79,Frateuria aurantia,diy,Available in agri shop,Wood ash
+clayey,sugarcane,6.2,39,79,56,Azotobacter,market,Available in agri shop,Vermicompost
+red,pulses,6.1,58,30,49,Mycorrhiza,market,Available in agri shop,Organic compost mix
+loamy,wheat,5.9,97,64,62,Mycorrhiza,diy,Available in agri shop,Organic compost mix
+loamy,rice,8.0,22,63,62,Rhizobium,market,Available in agri shop,Legume compost
+loamy,maize,5.1,85,42,11,Potash mobilizing bacteria,market,Available in agri shop,Banana peel compost
+sandy,millet,6.6,95,29,5,Frateuria aurantia,market,Available in agri shop,Wood ash
+red,millet,6.1,32,71,76,Azospirillum,market,Available in agri shop,Compost slurry
+loamy,rice,6.1,12,68,18,Azospirillum,market,Available in agri shop,Compost slurry
+clayey,rice,5.1,93,70,49,Mycorrhiza,market,Available in agri shop,Organic compost mix
+red,cotton,6.2,41,30,28,Potash mobilizing bacteria,market,Available in agri shop,Banana peel compost
+red,millet,8.4,50,23,35,PSB,diy,Available in agri shop,Bone meal compost
+loamy,potato,6.7,64,40,45,PSB,diy,Available in agri shop,Bone meal compost
+loamy,rice,5.8,45,22,68,PSB,diy,Available in agri shop,Bone meal compost
+red,millet,7.0,42,27,12,Potash mobilizing bacteria,diy,Available in agri shop,Banana peel compost
+black,cotton,7.9,95,23,61,PSB,diy,Available in agri shop,Bone meal compost
+clayey,sugarcane,7.1,64,28,49,Azotobacter,market,Available in agri shop,Vermicompost
+red,pulses,7.1,33,51,57,Azospirillum,market,Available in agri shop,Compost slurry
+loamy,maize,6.0,44,42,15,Potash mobilizing bacteria,diy,Available in agri shop,Banana peel compost
+loamy,maize,8.5,95,26,58,Azospirillum,diy,Available in agri shop,Compost slurry
+black,wheat,7.4,71,20,34,Mycorrhiza,market,Available in agri shop,Organic compost mix
+loamy,maize,5.1,37,5,58,Azospirillum,market,Available in agri shop,Compost slurry
+clayey,sugarcane,6.4,45,22,61,PSB,market,Available in agri shop,Bone meal compost
+loamy,rice,5.6,37,64,47,Azospirillum,market,Available in agri shop,Compost slurry
+sandy,maize,6.2,31,32,15,Azospirillum,diy,Available in agri shop,Compost slurry
+red,pulses,8.4,22,16,9,Azospirillum,diy,Available in agri shop,Compost slurry
+sandy,potato,8.4,42,57,41,Azospirillum,diy,Available in agri shop,Compost slurry
+red,potato,7.3,12,18,77,Azotobacter,market,Available in agri shop,Vermicompost
+red,pulses,8.0,27,61,20,Azospirillum,diy,Available in agri shop,Compost slurry
+black,wheat,5.6,81,6,17,Mycorrhiza,market,Available in agri shop,Organic compost mix
+black,maize,7.5,40,48,27,Potash mobilizing bacteria,diy,Available in agri shop,Banana peel compost
+clayey,rice,5.7,25,76,43,Rhizobium,market,Available in agri shop,Legume compost
+loamy,pulses,8.4,62,79,65,Azotobacter,market,Available in agri shop,Vermicompost
+loamy,potato,7.5,100,35,42,Potash mobilizing bacteria,market,Available in agri shop,Banana peel compost
+clayey,sugarcane,5.9,15,44,79,Azospirillum,diy,Available in agri shop,Compost slurry
+loamy,potato,5.8,19,43,44,Azospirillum,market,Available in agri shop,Compost slurry
+red,pulses,5.8,70,8,53,PSB,market,Available in agri shop,Bone meal compost
+loamy,pulses,7.1,24,71,27,Azotobacter,diy,Available in agri shop,Vermicompost
+red,sugarcane,6.2,50,78,77,PSB,market,Available in agri shop,Bone meal compost
+clayey,rice,5.2,63,56,66,Azotobacter,diy,Available in agri shop,Vermicompost
+loamy,pulses,7.4,67,16,76,Mycorrhiza,diy,Available in agri shop,Organic compost mix
+loamy,maize,7.6,85,20,52,PSB,market,Available in agri shop,Bone meal compost
+clayey,wheat,6.4,55,74,65,Mycorrhiza,market,Available in agri shop,Organic compost mix
+loamy,maize,5.4,39,21,47,Azotobacter,market,Available in agri shop,Vermicompost
+loamy,pulses,7.3,27,40,57,Azospirillum,market,Available in agri shop,Compost slurry
+red,cotton,8.1,41,72,19,Potash mobilizing bacteria,market,Available in agri shop,Banana peel compost
+clayey,potato,6.1,20,39,23,Azospirillum,diy,Available in agri shop,Compost slurry
+clayey,sugarcane,5.4,95,79,72,Rhizobium,market,Available in agri shop,Legume compost
+black,potato,7.7,53,22,6,PSB,market,Available in agri shop,Bone meal compost
+red,millet,5.0,41,68,27,Frateuria aurantia,market,Available in agri shop,Wood ash
+loamy,maize,6.5,98,37,20,Potash mobilizing bacteria,diy,Available in agri shop,Banana peel compost
+sandy,maize,8.3,34,8,50,Azotobacter,market,Available in agri shop,Vermicompost
+clayey,sugarcane,7.8,92,40,52,Azospirillum,market,Available in agri shop,Compost slurry
+sandy,maize,7.1,92,52,44,Potash mobilizing bacteria,market,Available in agri shop,Banana peel compost
+clayey,rice,6.5,92,70,7,Potash mobilizing bacteria,market,Available in agri shop,Banana peel compost
+red,cotton,8.1,88,11,55,Mycorrhiza,diy,Available in agri shop,Organic compost mix
+red,pulses,5.8,73,73,74,Frateuria aurantia,diy,Available in agri shop,Wood ash
+loamy,sugarcane,5.2,46,32,58,Azospirillum,diy,Available in agri shop,Compost slurry
+sandy,maize,8.1,81,51,15,Frateuria aurantia,market,Available in agri shop,Wood ash
+loamy,wheat,7.6,98,72,76,Frateuria aurantia,market,Available in agri shop,Wood ash
+black,millet,8.0,42,71,33,Mycorrhiza,diy,Available in agri shop,Organic compost mix
+clayey,potato,7.4,18,74,11,Azotobacter,diy,Available in agri shop,Vermicompost
+loamy,sugarcane,6.2,94,78,16,Potash mobilizing bacteria,diy,Available in agri shop,Banana peel compost
+loamy,maize,7.6,29,13,14,Rhizobium,market,Available in agri shop,Legume compost
+loamy,maize,8.3,39,77,77,Azotobacter,market,Available in agri shop,Vermicompost
+loamy,pulses,5.1,56,48,67,PSB,market,Available in agri shop,Bone meal compost
+clayey,maize,7.3,42,51,50,Azospirillum,diy,Available in agri shop,Compost slurry
+red,cotton,7.7,64,21,58,PSB,diy,Available in agri shop,Bone meal compost
+sandy,maize,6.0,55,58,44,Frateuria aurantia,market,Available in agri shop,Wood ash
+loamy,potato,5.3,66,34,65,PSB,diy,Available in agri shop,Bone meal compost
+loamy,maize,5.5,28,62,59,Rhizobium,diy,Available in agri shop,Legume compost
+loamy,potato,7.7,14,67,47,Azospirillum,diy,Available in agri shop,Compost slurry
+loamy,sugarcane,7.0,27,31,40,Rhizobium,diy,Available in agri shop,Legume compost
+sandy,millet,5.5,96,23,16,Mycorrhiza,diy,Available in agri shop,Organic compost mix
+sandy,potato,7.7,76,59,55,Potash mobilizing bacteria,diy,Available in agri shop,Banana peel compost
+loamy,rice,6.6,57,76,77,Frateuria aurantia,market,Available in agri shop,Wood ash
+red,pulses,5.9,20,79,20,Rhizobium,market,Available in agri shop,Legume compost
+sandy,rice,7.5,75,6,11,PSB,market,Available in agri shop,Bone meal compost
+loamy,pulses,8.5,70,44,63,Azotobacter,diy,Available in agri shop,Vermicompost
+clayey,sugarcane,6.3,31,12,29,Rhizobium,diy,Available in agri shop,Legume compost
+sandy,maize,6.5,40,13,24,Mycorrhiza,market,Available in agri shop,Organic compost mix
+black,cotton,7.8,91,54,31,PSB,market,Available in agri shop,Bone meal compost
+sandy,rice,6.3,62,65,50,Potash mobilizing bacteria,market,Available in agri shop,Banana peel compost
+red,pulses,6.3,26,61,54,Rhizobium,diy,Available in agri shop,Legume compost
+loamy,wheat,5.4,65,8,43,Mycorrhiza,market,Available in agri shop,Organic compost mix
+black,sugarcane,6.6,83,27,11,Potash mobilizing bacteria,market,Available in agri shop,Banana peel compost
+red,millet,7.2,67,45,21,Potash mobilizing bacteria,market,Available in agri shop,Banana peel compost
+red,cotton,5.5,71,67,14,Potash mobilizing bacteria,market,Available in agri shop,Banana peel compost
+red,rice,7.7,60,63,33,Mycorrhiza,diy,Available in agri shop,Organic compost mix
+red,wheat,7.0,83,75,28,Frateuria aurantia,diy,Available in agri shop,Wood ash
+black,sugarcane,5.3,84,25,42,Rhizobium,market,Available in agri shop,Legume compost
+loamy,pulses,5.4,78,65,24,Potash mobilizing bacteria,diy,Available in agri shop,Banana peel compost
+loamy,pulses,8.4,93,20,6,PSB,diy,Available in agri shop,Bone meal compost
+sandy,maize,8.2,75,6,31,PSB,diy,Available in agri shop,Bone meal compost
+sandy,potato,7.0,94,54,26,Potash mobilizing bacteria,diy,Available in agri shop,Banana peel compost
+sandy,millet,5.4,29,26,24,Rhizobium,diy,Available in agri shop,Legume compost
+clayey,sugarcane,5.8,83,77,9,Frateuria aurantia,diy,Available in agri shop,Wood ash
+sandy,maize,8.3,84,33,13,Frateuria aurantia,market,Available in agri shop,Wood ash
+sandy,millet,6.8,28,61,31,Azotobacter,market,Available in agri shop,Vermicompost
+loamy,potato,5.1,23,11,69,Azotobacter,diy,Available in agri shop,Vermicompost
+red,pulses,6.9,93,15,51,PSB,market,Available in agri shop,Bone meal compost
